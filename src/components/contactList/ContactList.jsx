@@ -1,5 +1,5 @@
 import React from "react";
-import Contact from "./contact";
+import Contact from "./contact/Contact";
 import styles from "./ContactList.module.css";
 
 const ContactList = ({ contacts, deleteContact }) => {
